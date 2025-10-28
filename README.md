@@ -1,4 +1,3 @@
-¡Perfecto! Aquí te dejo un **README.md** completo, limpio y profesional, para que lo dejes en tu repositorio de GitHub con todo lo que lograste:
 
 ---
 
